@@ -5,17 +5,20 @@
 <div style="display: inline_blocks"><br/>
 Sobre mim
 </div><br/>
-  Pós-Graduando Ciência de Dados e Inteligência Artificial pela Universidade Católica do Rio de Janeiro (PUC-RIO) e Bacharel em Ciências Contábeis pela Universidade Presbiteriana Mackenzie Rio (UPM). Experiências profissionais em Análise Contábeis e Financeiras e Análise de Negócios ao longo dos anos, voltada à solução de problemas e fundamentada em dados.
-
+Pós-Graduando Ciência de Dados e Inteligência Artificial pela Universidade Católica do Rio de Janeiro (PUC-RIO) e Bacharel em Ciências Contábeis pela Universidade Presbiteriana Mackenzie Rio (UPM). Experiências profissionais em Análise Contábeis e Financeiras e Análise de Negócios ao longo dos anos, voltada à solução de problemas e fundamentada em dados.
 Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e ajudar empresas a lidar com os processos de tomada de decisão de negócios.
-  
-
-
 <div style="display: inline_blocks"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ 
+Habilidades Técnicas
+
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="pw" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
+
+-
 
 
 

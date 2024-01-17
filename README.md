@@ -11,15 +11,17 @@ Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na áre
 </div><br/>
  
 Habilidades Técnicas
-
+<div style="display: inline_blocks">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="pw" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div>
-
--
+</div><br/>
+ 
+- Linguagens de programação: Python, SQL
+- Visualização: Power BI
+- Habilidades Profissionais: Inglês Básico, Pacote Office
 
 
 

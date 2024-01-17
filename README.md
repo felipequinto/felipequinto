@@ -6,8 +6,9 @@
 Sobre mim
 </div><br/>
 Pós-Graduando Ciência de Dados e Inteligência Artificial pela Universidade Católica do Rio de Janeiro (PUC-RIO) e Bacharel em Ciências Contábeis pela Universidade Presbiteriana Mackenzie Rio (UPM). Experiências profissionais em Análise Contábeis e Financeiras e Análise de Negócios ao longo dos anos, voltada à solução de problemas e fundamentada em dados.
-Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e ajudar empresas a lidar com os processos de tomada de decisão de negócios.
 <div style="display: inline_blocks"><br/>
+Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e ajudar empresas a lidar com os processos de tomada de decisão de negócios.
+</div><br/>
  
 Habilidades Técnicas
 

@@ -5,7 +5,6 @@
 <div style="display: inline_blocks"><br/>
 Sobre mim
 </div><br/>
-Pós-Graduado em Ciência de Dados e Inteligência Artificial pela ICA-PUC-RIO e Bacharel em Ciências Contábeis pela Universidade Presbiteriana Mackenzie Rio. Experiências profissionais em Análises Contábeis, Financeiras e de Negócios ao longo dos anos, voltadas à solução de problemas empresariais.
 Atualmente, trabalho desenvolvendo automações de processos, manipulação e visualização de dados. Em transição para a área de Ciência de Dados. Sou apaixonado por transformar dados em decisões estratégicas e criar soluções automatizadas. Sempre em busca de aprendizado, estou aberto a desafios que gerem impacto real.
 
 

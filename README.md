@@ -10,7 +10,7 @@ Atualmente, trabalho desenvolvendo automações de processos, manipulação e vi
 
 
 <div style="display: inline_blocks"><br/>
-Atualmente, busco uma oportunidade de atuar na área de dados e ajudar empresas nos processos de tomada de decisão de negócios.
+
 </div><br/>
  
 Habilidades Técnicas
